@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Peter G.
+--
 <!--
 **petergi/petergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/petergiannopoulos"><img src="https://api.daily.dev/devcards/852b58fec27a411884f19cbcdaba1b35.png?r=v74" width="400" alt="Peter Giannopoulos's Dev Card"/></a>
