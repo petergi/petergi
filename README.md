@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Peter G.
+I'm Peter G. Go checkout my gists. Bite-sized fun. https://gist.github.com/petergi
+
 --
 <!--
 **petergi/petergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
