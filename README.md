@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://app.daily.dev/petergiannopoulos"><img src="https://api.daily.dev/devcards/852b58fec27a411884f19cbcdaba1b35.png?r=v74" width="400" alt="Peter Giannopoulos's Dev Card"/></a> -->
 
-
-<a href="https://app.daily.dev/petergiannopoulos"><img src="https://api.daily.dev/devcards/v2/0V5DYbUynC9SntEn9x77d.png?type=default&r=44v" width="356" alt="Peter Giannopoulos's Dev Card"/></a>
+<a href="https://app.daily.dev/petergiannopoulos"><img src="https://api.daily.dev/devcards/v2/0V5DYbUynC9SntEn9x77d.png?type=default&r=6s5" width="356" alt="Peter Giannopoulos's Dev Card"/></a>
